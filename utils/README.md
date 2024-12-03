@@ -27,6 +27,10 @@ The `utils` folder contains utility scripts and functions that support the core 
         - `Tanh`
         - `Sigmoid`
 
+### **2. vis_human3.py**
+- **기능**: **AIHub**의 한국인 전신 형상 및 치수 측정 데이터(.obj)를 볼 수 있는 기능
+- **Key Functions**:
+![형상 데이터 예](../Resource/human_body.jpg)
 ---
 
 ## **Usage Example**
