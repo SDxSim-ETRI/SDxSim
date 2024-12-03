@@ -1,4 +1,5 @@
-# Reinforcement Learning Simulator
+## SDx Simulator
+SDx 시뮬레이터는 시뮬레이터 프레임워크, 가상환경 생성 프레임워크, 지능학습 및 시뮬레이션 지원 프레임워크, 실증 프레임워크로 구성하는 것을 목표로 합니다.
 
 ## Overview
 This project is a simulator designed for reinforcement learning (RL) experiments. It integrates physics engines (such as MuJoCo) to provide diverse environments for training RL agents. The project includes features for setting up environments, implementing RL algorithms, and visualizing results.
